@@ -8,6 +8,7 @@ This project visualizes how colors mix based on their RGB values. I did enjoyed 
 
 
 <img src="./demos/home.png" style=" width:300px ; height:649px ; flex-direction:horizontal ">
+<img src="./demos/home.png" style=" width:300px ; height:649px ; flex-direction:horizontal ">
 
 ## Getting Started
 
