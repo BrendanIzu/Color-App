@@ -19,5 +19,5 @@ $ npm install
 $ npm start
 ```
 4. Follow expo prompts to run on mobile emulator
-[IOS emulator set-up](https://doc.arcgis.com/en/appstudio/extend-apps/installdevtoolsemulators.htm#:~:text=Open%20Xcode%20and%20click%20Menu,necessary)%20and%20opens%20in%20it.)
+[IOS emulator set-up](https://doc.arcgis.com/en/appstudio/extend-apps/installdevtoolsemulators.htm#:~:text=Open%20Xcode%20and%20click%20Menu,necessary)
 
