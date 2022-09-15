@@ -2,6 +2,12 @@
 
 A moblie project I did for learning React Native, and git commands
 
+## About
+
+This project visualizes how colors mix based on their RGB values. I did enjoyed learning about react native and expo through working on this project. 
+
+
+
 ## Getting Started
 
 Clone this project on your machine to have the code necessary to run this project locally.
