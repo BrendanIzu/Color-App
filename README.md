@@ -6,7 +6,7 @@ A moblie project I did for learning React Native, and git commands
 
 This project visualizes how colors mix based on their RGB values. I did enjoyed learning about react native and expo through working on this project. 
 
-![DEMO1!](./demos/home.png = 60x1350)
+![DEMO1!](./demos/home.png)
 
 ## Getting Started
 
