@@ -7,8 +7,8 @@ A moblie project I did for learning React Native, and git commands
 This project visualizes how colors mix based on their RGB values. I did enjoyed learning about react native and expo through working on this project. 
 
 <p float="left">
-  <img src="./demos/home.png" style=" width:300px ; height:649px ; flex-direction:horizontal ">
-  <img src="./demos/home.png" style=" width:300px ; height:649px ; flex-direction:horizontal ">
+  <img src="./demos/home.png" style=" width:300px ; height:649px />
+  <img src="./demos/home.png" style=" width:300px ; height:649px />
 </p>
 
 
